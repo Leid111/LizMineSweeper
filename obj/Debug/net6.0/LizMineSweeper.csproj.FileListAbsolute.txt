@@ -1,0 +1,15 @@
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\bin\Debug\net6.0\LizMineSweeper.exe
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\bin\Debug\net6.0\LizMineSweeper.deps.json
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\bin\Debug\net6.0\LizMineSweeper.runtimeconfig.json
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\bin\Debug\net6.0\LizMineSweeper.dll
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\bin\Debug\net6.0\LizMineSweeper.pdb
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.csproj.AssemblyReference.cache
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.AssemblyInfoInputs.cache
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.AssemblyInfo.cs
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.dll
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\refint\LizMineSweeper.dll
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.pdb
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\LizMineSweeper.genruntimeconfig.cache
+C:\Users\1180981\Desktop\Acc Tech Program\Projects\MineSweeper\LizMineSweeper\obj\Debug\net6.0\ref\LizMineSweeper.dll
