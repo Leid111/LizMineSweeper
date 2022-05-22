@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1180981\\Desktop\\LizMineSweeper\\LizMineSweeper.csproj",
+      "projectUniqueName": "C:\\Users\\1180981\\Desktop\\Acc Tech Program\\Projects\\MineSweeper\\LizMineSweeper\\LizMineSweeper.csproj",
       "projectName": "LizMineSweeper",
-      "projectPath": "C:\\Users\\1180981\\Desktop\\LizMineSweeper\\LizMineSweeper.csproj",
+      "projectPath": "C:\\Users\\1180981\\Desktop\\Acc Tech Program\\Projects\\MineSweeper\\LizMineSweeper\\LizMineSweeper.csproj",
       "packagesPath": "C:\\Users\\1180981\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1180981\\Desktop\\LizMineSweeper\\obj\\",
+      "outputPath": "C:\\Users\\1180981\\Desktop\\Acc Tech Program\\Projects\\MineSweeper\\LizMineSweeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1180981\\AppData\\Roaming\\NuGet\\NuGet.Config",
