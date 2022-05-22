@@ -14,19 +14,23 @@ namespace LizMineSweeper
 
         static void BombAwareness() // thinking of adding list as a para List<int> MineNumbers? 
         {
+
             //int[] bombNumberarray = new int[] { 48, 59, 5, 2, 6, 7, 8, 9, 10, 20 }; // random bumbers generates     // make sure  that doesnt let it repeat numbers 
+            List<int> NumberofBombs = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             List<int> MinesNumbers = new List<int>();
-            MinesNumbers.Add(48);
-            MinesNumbers.Add(59);
-            MinesNumbers.Add(5);
-            MinesNumbers.Add(2);
-            MinesNumbers.Add(6);
-            MinesNumbers.Add(7);
-            MinesNumbers.Add(8);
-            MinesNumbers.Add(9);
-            MinesNumbers.Add(10);
-            MinesNumbers.Add(20);
-            List<int> TotalUserGuesses = new List<int>();
+            Random randNum = new Random();
+            for (int j = 0; j < NumberofBombs.Count;)
+            {
+                int RandomNum = randNum.Next(1, 101);
+                if (!MinesNumbers.Contains(RandomNum))
+                {
+                    MinesNumbers.Add(RandomNum);
+                    j++;
+                }
+            }
+
+
+                List<int> TotalUserGuesses = new List<int>();
            
             int UserGuess = 0;
             int count = 0;
