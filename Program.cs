@@ -49,7 +49,10 @@ namespace LizMineSweeper
                 
                 Console.WriteLine("Enter a coordinate ( a number between 1-100)");
                 UserGuess = Int32.Parse(Console.ReadLine());
-               
+               if(!(UserGuess >=0 && UserGuess <= 100))
+                {
+                    Console.WriteLine("Not a valid input, try again.");
+                }
 
 
                 for (int i = 0; i < MinesNumbers.Count; i++)
@@ -104,8 +107,11 @@ namespace LizMineSweeper
                   
 
                 }
-
-                TotalUserGuesses.Add(UserGuess);
+                if((UserGuess >= 0 && UserGuess <= 100))
+                {
+                    TotalUserGuesses.Add(UserGuess);
+                }
+               
                 if (count > 0 && count <= 8
                  && !(UserGuess == MinesNumbers[0])
                  && !(UserGuess == MinesNumbers[1])
